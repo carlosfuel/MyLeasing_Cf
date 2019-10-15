@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLeasing_Cf.Common", "MyLeasing_Cf.Common\MyLeasing_Cf.Common.csproj", "{CAF61E2B-463A-4382-97A5-6C1D0C92200C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLeasing_Cf.Web", "MyLeasing_Cf.Web\MyLeasing_Cf.Web.csproj", "{B7F4A214-9E7D-4A07-8EF6-564476F9B789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF61E2B-463A-4382-97A5-6C1D0C92200C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF61E2B-463A-4382-97A5-6C1D0C92200C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF61E2B-463A-4382-97A5-6C1D0C92200C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF61E2B-463A-4382-97A5-6C1D0C92200C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F4A214-9E7D-4A07-8EF6-564476F9B789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F4A214-9E7D-4A07-8EF6-564476F9B789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F4A214-9E7D-4A07-8EF6-564476F9B789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F4A214-9E7D-4A07-8EF6-564476F9B789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774CD351-7DC7-4E07-B422-DE2ABC17B10A}
+	EndGlobalSection
+EndGlobal
